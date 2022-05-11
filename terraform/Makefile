@@ -1,5 +1,3 @@
-environment=dev
-
 -include .env
 
 tf_opt=
